@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working on the development of bioinformatic courses. Also I'm working in ancient metagenomic analysis of parchment manuscripts 
+I'm currently working on the development of bioinformatic courses. 
+
+Also, I'm working in ancient metagenomic analysis of parchment manuscripts. 
 
 
 # 💻 Tech Stack:
