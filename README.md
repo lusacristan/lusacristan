@@ -1,7 +1,8 @@
 # 💫 About Me:
-I'm currently working on the development of bioinformatic courses. 
 
-Also, I'm working in ancient metagenomic analysis of parchment manuscripts. 
+Microbiologist and Msc. in Computational Biology. 
+
+Currently working on the development of bioinformatic courses and ancient metagenomic analysis of parchment manuscripts. 
 
 
 # 💻 Tech Stack:
