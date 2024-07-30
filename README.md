@@ -1,12 +1,14 @@
 # Hi there :dizzy:
 
-:sunflower: 	 I am a microbiologist and bioinformatician with an MSc in Computational Biology.
+:sunflower: 	 I am a microbiologist :woman_scientist:  and bioinformatician with an MSc in Computational Biology :desktop_computer:.
 
 :sunflower: 	 Currently working on the development and adaptation of bioinformatics courses for genomic surveillance analysis at the [BCEM](https://bcem-uniandes.github.io/) group and the [CABANA consortium](https://www.cabana.online/).
 
-:sunflower: 	 Currently Working on ancient metagenomics from parchment manuscripts.
+:sunflower: 	 Currently Working on ancient metagenomics from parchment manuscripts :scroll:.
 
-:sunflower: 	 Interested in aDNA, acient metagenomis, ancient pathogens.
+:sunflower: 	 Side project: development of a novel protocol for nanopore NGS of 16S-23S rRNA Operon from coffee microbiome :coffee:.
+
+:sunflower: 	 Interested in aDNA, acient metagenomics, ancient pathogens :microbe:.
 
 
 # 💻 Tech Stack:
