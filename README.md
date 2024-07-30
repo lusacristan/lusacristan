@@ -6,7 +6,7 @@
 
 :blossom: 	 Currently Working on ancient metagenomics from parchment manuscripts :scroll:.
 
-:blossom: 	 Side project: development of a novel protocol for nanopore NGS of 16S-23S rRNA Operon from coffee microbiome :coffee:.
+:blossom: 	 Side project: development of a novel protocol for Nanopore sequencing of 16S-23S rRNA Operon from coffee microbiome :coffee:.
 
 :blossom: 	 Interested in aDNA, acient metagenomics, ancient pathogens :microbe:.
 
