@@ -1,12 +1,12 @@
 # Hi there :sunflower::
 
-:purple_heart: I am a microbiologist and bioinformatician with an MSc in Computational Biology.
+:cherry_blossom: 	 I am a microbiologist and bioinformatician with an MSc in Computational Biology.
 
-:purple_heart: Currently working on the development and adaptation of bioinformatics courses for genomic surveillance analysis at the [BCEM](https://bcem-uniandes.github.io/) group and the [CABANA consortium](https://www.cabana.online/).
+:cherry_blossom: 	 Currently working on the development and adaptation of bioinformatics courses for genomic surveillance analysis at the [BCEM](https://bcem-uniandes.github.io/) group and the [CABANA consortium](https://www.cabana.online/).
 
-:purple_heart: Currently Working on ancient metagenomics from parchment manuscripts.
+:cherry_blossom: 	 Currently Working on ancient metagenomics from parchment manuscripts.
 
-:purple_heart: Interested in aDNA, acient metagenomis, ancient pathogens.
+:cherry_blossom: 	 Interested in aDNA, acient metagenomis, ancient pathogens.
 
 
 # 💻 Tech Stack:
